@@ -1,2 +1,2 @@
 # TP5
-Simple and easy to add captchas on your php project
+Simple and easy to add and use captchas on your php project
